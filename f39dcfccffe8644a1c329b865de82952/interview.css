@@ -1,0 +1,44 @@
+/*  inteview.css  */
+
+
+body {
+  font-family: sans-serif;
+  color: lightblue;
+}
+
+span {
+  font-size: 12px;
+  display: block;
+  text-align: center;
+}
+
+
+#box1 {
+  font-weight: bold;
+  width: 100px;
+  height: 100px;
+  border: solid 3px blue;
+  margin: 50px 0 0 40px;
+  background-color: orange;
+  color: black;
+  box-shadow: 7px 7px 1px grey inset;
+}
+
+.box {
+  font-weight: bold;
+  border: solid 3px blue;
+  border-radius: 10px;
+  box-shadow: 7px 7px 1px grey;
+  width: 100px;
+  height: 100px;
+  margin: 50px 0 0 40px;
+  background-color: orange;
+}
+
+#box2 {
+  color: red;
+}
+
+#box3 {
+  color: blue;
+}
